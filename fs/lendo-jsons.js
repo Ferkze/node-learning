@@ -18,6 +18,7 @@ fs.readFile('teste.json', function(err, data) {
 
 	var dados = JSON.parse(data)
 
+
 	for (var i = 0; i < dados.length; i++) {
 		console.log('Esses são os dados da lista:', dados[i])
 	}
