@@ -1,0 +1,12 @@
+[
+  {
+    "name": "teste"
+  },
+  {
+    "name": "teste2"
+  },
+  {
+    "estranho": "continuar lendo o name pode dar erro",
+    "por que": "esse objeto não tem um valor name"
+  }
+]
